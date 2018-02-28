@@ -1,0 +1,57 @@
+Airbus A300
+Airbus A320
+Airbus A330
+Airbus A340
+Airbus A350
+Airbus A360
+Airbus A380
+Aeromarine 50
+Aeromarine 75
+Aeromarine 80
+Aeromarine 85
+Aeromarine AMC
+Ago Ao 192
+Airbus A300
+Airbus A310
+Airbus A318
+Airbus A319
+Airbus A320
+Airbus A320neo
+Airbus A321
+Airbus A330
+Airbus A340
+Airbus A350
+Airbus A380
+Airbus NSR
+Airspeed Ambassador
+Airspeed Courier
+Airspeed Envoy
+An-2
+An-10
+An-24
+An-38
+An-140
+An-148
+An-218
+ANT-14
+ATR 42
+ATR 72
+Aviation Traders ATL-90 Accountant
+Aviation Traders ATL-98 Carvair
+Avro Andover
+Avro Canada C-102 Jetliner
+Avro Lancastrian
+Avro York
+Boeing 707
+Boeing 717
+Boeing 720
+Boeing 727
+Boeing 737
+Boeing 747
+Boeing 747-8
+Boeing 747-400
+Boeing 757
+Boeing 767
+Boeing 777
+Boeing 787
+Boeing 2707

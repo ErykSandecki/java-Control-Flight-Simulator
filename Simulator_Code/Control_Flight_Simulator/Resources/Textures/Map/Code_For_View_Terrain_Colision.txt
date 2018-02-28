@@ -1,0 +1,51 @@
+ Load_Color[] = new BufferedImage[8];
+
+Update()
+for(int i=0;i<1001;i++)
+		{
+			for(int j=0;j<1001;j++)
+			{
+				if(Line[i][j] == 1)
+				{
+					_Graphics.drawImage(Load_Color[0],j,i,null);
+				}
+				if(Line[i][j] == 2)
+				{
+					_Graphics.drawImage(Load_Color[1],j,i,null);
+				}
+				if(Line[i][j] == 3)
+				{
+					_Graphics.drawImage(Load_Color[2],j,i,null);
+				}
+				if(Line[i][j] == 4)
+				{
+					_Graphics.drawImage(Load_Color[3],j,i,null);
+				}
+				if(Line[i][j] == 5)
+				{
+					_Graphics.drawImage(Load_Color[4],j,i,null);
+				}
+				if(Line[i][j] == 6)
+				{
+					_Graphics.drawImage(Load_Color[5],j,i,null);
+				}
+				if(Line[i][j] == 7)
+				{
+					_Graphics.drawImage(Load_Color[6],j,i,null);
+				}
+				if(Line[i][j] == 8)
+				{
+					_Graphics.drawImage(Load_Color[7],j,i,null);
+				}
+			}
+		}
+
+Initialization()
+		Load_Color[0] = Image._BufferedImage("/Map/1.png");
+		Load_Color[1] = Image._BufferedImage("/Map/2.png");
+		Load_Color[2] = Image._BufferedImage("/Map/3.png");
+		Load_Color[3] = Image._BufferedImage("/Map/4.png");
+		Load_Color[4] = Image._BufferedImage("/Map/5.png");
+		Load_Color[5] = Image._BufferedImage("/Map/6.png");
+		Load_Color[6] = Image._BufferedImage("/Map/7.png");
+		Load_Color[7] = Image._BufferedImage("/Map/8.png");
