@@ -1,2 +1,2 @@
-# java-Control-Flight-Simulator
+# Java-Control-Flight-Simulator
 Project on study
